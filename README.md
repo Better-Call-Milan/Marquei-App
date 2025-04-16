@@ -35,6 +35,8 @@
 
 ## ✅ Funcionalidades
 
+![Funções do Marquei](docs/mockups & outros/Funções do Marquei.png)
+
 ---
 
 ## 📊 Como Funciona
