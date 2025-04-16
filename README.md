@@ -49,3 +49,8 @@
 2. **Cadastro de Usuários**: Usuários criam suas credenciais e geram um QR Code pessoal, que será escaneado pelo administrador ao fazer o empréstimo.
 3. **Empréstimo e Devolução**: Para registrar um empréstimo ou devolução, o administrador escaneia os QR Codes do item e do usuário.
 4. **Geração de Relatórios**: O administrador pode gerar e exportar relatórios em PDF com o inventário atual e os empréstimos realizados.
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
