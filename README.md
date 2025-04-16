@@ -35,7 +35,7 @@
 
 ## ✅ Funcionalidades
 
-![Funções do Marquei](docs/mockups & outros/Funções do Marquei.png)
+![Funções do Marquei](docs/mockups_e_outros/Funcoes_do_Marquei.png)
 
 ---
 
