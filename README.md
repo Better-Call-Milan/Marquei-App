@@ -24,7 +24,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Mockups & Screenshots
 
 > Em breve mockups e protótipos aqui!
 
