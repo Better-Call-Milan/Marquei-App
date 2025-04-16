@@ -24,7 +24,7 @@
 
 ---
 
-## 📸 Telas previstas
+## 📸 Screenshots
 
 > Em breve mockups e protótipos aqui!
 
