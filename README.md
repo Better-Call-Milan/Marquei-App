@@ -50,6 +50,12 @@
 3. **Empréstimo e Devolução**: Para registrar um empréstimo ou devolução, o administrador escaneia os QR Codes do item e do usuário.
 4. **Geração de Relatórios**: O administrador pode gerar e exportar relatórios em PDF com o inventário atual e os empréstimos realizados.
 
+---
+
+🔒 Veja também os [Termos de Uso](docs/termos.md).
+
+---
+
 ## 📝 Licença
 
 Este projeto está licenciado sob a Licença MIT.  
