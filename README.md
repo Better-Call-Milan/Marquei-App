@@ -4,7 +4,7 @@
 
 # 📱 Marquei! - Sistema de Empréstimos e Inventário
 
-**Marquei** é um aplicativo offline para gerenciamento de inventário e empréstimos de itens, como laptops, livros e outros objetos, utilizando QR codes. Ideal para escolas, bibliotecas e organizações, o app permite o cadastro de objetos e usuários, além de registrar empréstimos e gerar relatórios, tudo sem necessidade de conexão à internet.
+**Marquei** é um aplicativo offline para gerenciamento de inventário e empréstimos de itens, como laptops, livros e outros objetos, utilizando QR codes. Ideal para escolas, bibliotecas e pequenas organizações, o app permite o cadastro de objetos e usuários, além de registrar empréstimos e gerar relatórios, tudo sem necessidade de conexão à internet.
 
 ---
 
