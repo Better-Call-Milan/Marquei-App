@@ -1,7 +1,18 @@
 <p align="center">
-  <img src="docs/mockups_e_outros/Marquei_Logo_Edu.png" alt="Logo do Marquei" width="200"/>
-  <img src="docs/mockups_e_outros/Marquei_Logo_Log.png" alt="Logo do Marquei" width="200"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="docs/mockups_e_outros/Marquei_Logo_Edu.png" alt="Logo do Marquei Edu" width="200"/><br/>
+        <strong>Marquei Edu</strong>
+      </td>
+      <td align="center">
+        <img src="docs/mockups_e_outros/Marquei_Logo_Log.png" alt="Logo do Marquei Log" width="200"/><br/>
+        <strong>Marquei Log</strong>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 # 📱 Marquei! - Sistema de Empréstimos e Inventário
 
