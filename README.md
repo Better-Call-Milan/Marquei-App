@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -11,7 +11,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 
 # 📱 Marquei! - Sistema de Empréstimos e Inventário
