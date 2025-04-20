@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="docs/mockups_e_outros/Marquei_Logo.png" alt="Logo do Marquei" width="200"/>
+  <img src="docs/mockups_e_outros/Marquei_Logo_Edu.png" alt="Logo do Marquei" width="200"/>
+  <img src="docs/mockups_e_outros/Marquei_Logo_Log.png" alt="Logo do Marquei" width="200"/>
 </p>
 
 # 📱 Marquei! - Sistema de Empréstimos e Inventário
