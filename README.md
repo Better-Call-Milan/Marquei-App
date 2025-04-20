@@ -20,6 +20,11 @@
 
 ---
 
+## ✨ Versões Disponíveis
+![Versões do Marquei](docs/mockups_e_outros/Versoes_do_Marquei.png)
+
+---
+
 ## 🧠 Visão Geral
 
 - **Cadastro de itens**: Adicione laptops, livros e outros objetos ao sistema.
